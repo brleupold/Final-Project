@@ -1,6 +1,16 @@
-###
+###         BLAKE LEUPOLD
+#
 # This code simulates a mock a budget. I find it interesting because I am moving and my expenses will
 # be changing I am wieghing how to make budget changes to adjust.
+#
+#I had trouble at first because i did not declare my inputs as floats. So my program was reading str + str etc
+#
+#It works well now.
+#
+#If I were to make it better I would have my investments compound monthly as well as give the user a
+#choice to withdraw from thier investments.
+#
+# I also would like to work on the display info to make it more user friendly.
 ###
 
 print()
